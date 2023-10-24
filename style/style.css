@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+.bg-blue {
+    background-color: cornflowerblue;
+}
+
+.logo {
+    width: 200px;
+    margin: 25px 150px;
+}
