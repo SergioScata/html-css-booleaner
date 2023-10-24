@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 }
 
 
@@ -63,4 +64,9 @@
 }
     
 
-   
+   .foot-text {
+    text-align: center;
+    background-color: rgb(37, 37, 224);
+    color: white;
+    height: 30%;
+   }
