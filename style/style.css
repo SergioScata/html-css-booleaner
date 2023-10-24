@@ -32,3 +32,35 @@
 .bg-yellow {
     background-color: yellow;
 }
+
+
+.margin-phrases {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.margin-list {
+    margin-bottom: 25px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 95%;
+}
+
+.table th, .table td { text-align: left;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table th {background-color: cornflowerblue;
+    color: white;
+}
+
+
+.bg-td {
+    background-color: rgb(152, 175, 218);
+}
+    
+
+   
