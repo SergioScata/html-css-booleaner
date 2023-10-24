@@ -2,11 +2,29 @@
     margin: 0;
 }
 
+
+* a:visited {
+    color: blue;
+}
+
+
+.no-sottolinea {
+    text-decoration: none;
+}
+
+
 .bg-blue {
     background-color: cornflowerblue;
 }
 
+
 .logo {
     width: 200px;
-    margin: 25px 150px;
+    margin: 25px 10px;
 }
+
+
+.margin-title {
+    margin: 50px 10px;
+}
+
